@@ -1,0 +1,233 @@
+{
+  "2e5b53041d95afaa2555d2a37fd87b0acb6b7586": [
+    "virtualization\\community\\community_overview.md"
+  ],
+  "293cd908ea75ec62b9ca3cdbfaafe4980abae1ea": [
+    "virtualization\\community\\TOC.md"
+  ],
+  "8c7bbfb4cce7933f3288aba80a80507b399ac776": [
+    "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md"
+  ],
+  "2ad607964e95e5dc4570fd2fc1ce05f592bf08f0": [
+    "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+  ],
+  "851345687639b6942357c4f7518a4fe528d952da": [
+    "virtualization\\hyperv_on_windows\\about\\whats_new.md"
+  ],
+  "f5d28cf383be3b3fdd623b8a40d120e113abc465": [
+    "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md"
+  ],
+  "a7640c222d084ad8705adf3206cc238fc33ff331": [
+    "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md"
+  ],
+  "822e6cee5989d29adf7c12b0b37cbdf01a96c88c": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md"
+  ],
+  "3d3f98ee3495a340c7fb56e15f900aa719ebc15e": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_checkpoints.md"
+  ],
+  "d5fe61997fe63333a11454f5890626ad201cf2a5": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png"
+  ],
+  "53d9bc961c04974afdcd12bb720ad64bfcf34075": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_notepad.png"
+  ],
+  "0d2809240461a6599a34c795b237533f55698452": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint_button.png"
+  ],
+  "c1c71b98feb102a4e67772bfc2de875ec2af22dd": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png"
+  ],
+  "4e785972c3be387b6ebd64e8b9fb223cc3dd75fc": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_complete.png"
+  ],
+  "fed34babab3f4e671a89cac091b2e17ef42d2a8a": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\production.png"
+  ],
+  "d36276f92ae59c03ec9ee6ebf036be2e21221851": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\production_CheckpointName.png"
+  ],
+  "380c6e5e0bfe92b92d31d48427f07a973d8fe984": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\production_complete.png"
+  ],
+  "41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\apply_standard.png"
+  ],
+  "467fb70b2d1c32195b1ba908c08b294bb569eecd": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied.png"
+  ],
+  "6146e217d26ec6fa5338c9df3ebed41ee94192a6": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\standard_applied_notepad.png"
+  ],
+  "600e67045b98582d4dc3d087dcd2ae2a6d4be54c": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\start.png"
+  ],
+  "1d9a3786134bfd9ab4454491be318023849ebf3e": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\production_notepad.png"
+  ],
+  "3a3b909ddbe5faa7ae9c894932c783ae0b3a861e": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_me.png"
+  ],
+  "cf30ca46d006229820dd2e400d50243e43cbe669": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_checkpoint.png"
+  ],
+  "197db0f85ff76bdbac3321d595f3b3a93429ac30": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_warn.png"
+  ],
+  "61d3a219c4976b61137f6b8c6739135a4d917265": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\after_delete.png"
+  ],
+  "44cee369a80323f1e5a896a7d6a65b89112055b9": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_compatibility.md"
+  ],
+  "c830f164a513bd6125dc1a30f7cf1990e1c9470a": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\SystemInfo_upd.png"
+  ],
+  "df858fce3585e102d26f467bca2b0755ecf24824": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md"
+  ],
+  "ee0c7673a7da915db8c2d41f0d24233aac1b9787": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md"
+  ],
+  "16cfc23957260ceb3b07ef55a8e4b79996d525ca": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\select_export1.png"
+  ],
+  "033b857ffede72ffede2bb885c0b3305bfe49e5d": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\click_export.png"
+  ],
+  "0561b03a80a6c5694a3597cb12de616cb772f3df": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\export_progress.png"
+  ],
+  "ac1b9c7df82cc6513a357b20b4dfb1f662560ba8": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\export_confirm.png"
+  ],
+  "0e17e37e1e05990d89952a7e4eeea504cd215269": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_install.md"
+  ],
+  "1323985a77d40a39f3191207c703e3b426a55795": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\enable_role_upd.png"
+  ],
+  "14f7db98c0da674b247f404a300b05fdff35f12d": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\restart_upd.png"
+  ],
+  "a303041e7915293e2affe84599cab647d43119a8": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\dism_upd.png"
+  ],
+  "2c9a0afa2f41f5f42297cdf0a42792929cd1b88d": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
+  ],
+  "44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png"
+  ],
+  "9d753332489389765c1ea1cfa1737126a201644c": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
+  ],
+  "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
+  ],
+  "50819aee09462e65ad3e58e1498aeb2100326434": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
+  ],
+  "47774db49f5a1c02facd46120ba88a3398a23212": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
+  ],
+  "2d6238ee2a2ab32abb8c554ed523d991dd2872a5": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\virtual_switch_manager1.png"
+  ],
+  "c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch.png"
+  ],
+  "16014b7a0feb0558437d99113972981e6560ef83": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch_createbutton.png"
+  ],
+  "010b14ab9606fc78ab56eee192fa75bd3c9ce944": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\share_nic.png"
+  ],
+  "7914414173209fcf0105acf95f81399419f997e8": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\network_warning.png"
+  ],
+  "64d931f0509211ef361f5e86225a53ab5fdd9131": [
+    "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
+  ],
+  "0ace2b0a0fb0268ec72373ff912836157cddbda5": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\turnoff.png"
+  ],
+  "5ab1d8630e83b53afc73ae837c8d9409f0cfee96": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\shutdown.png"
+  ],
+  "80edad7cc988d2ca8346d2f785345ce6b5d36df4": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\save.png"
+  ],
+  "19e37da524322414c21e941fb1c902b3a361c2db": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\pause.png"
+  ],
+  "b9da284951ca5bea7773ac6e0b4029fcd25c514d": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\reset.png"
+  ],
+  "e4d15fec95c845919ba7f9fe8df128d7dbec116d": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\ctrlaltdel.png"
+  ],
+  "23eca458ec44c46dea8eca88aa041c9f9e1a8005": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\basic.png"
+  ],
+  "dcc854e9982c81a2ad99872fd40bbd940733ccdb": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint.png"
+  ],
+  "66caa4c366c1b65937a913bfb39e3af350c2d9f6": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\revert.png"
+  ],
+  "bcfc3d1bbd1a6dba522674bd0525a4a83c6b1cb8": [
+    "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
+  ],
+  "55744774ff20c1dd435f1d7ca0eafb3332b201f3": [
+    "virtualization\\hyperv_on_windows\\user_guide\\export_import.md"
+  ],
+  "756462edce4cd4cd60a244543d8013718b20fe99": [
+    "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md"
+  ],
+  "a74f3687bd3a1fe2b92bf8424df6957c6b223aa4": [
+    "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
+  ],
+  "5f21c845594a8663b7458e86c121563d3b199e4d": [
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToHost.png"
+  ],
+  "480f125229e908bd46da36baea6c1628b3b10fb3": [
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToLocalHost.png"
+  ],
+  "09140851fb0b7b0d268a1beda2d6423fe3c24e1a": [
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHost.png"
+  ],
+  "b1547cd8ba6a8ff669e679d64b79773d3878beea": [
+    "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHostAltCreds.png"
+  ],
+  "d772ee3e60961445f6ad27f6d2e2f14678d990e1": [
+    "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md"
+  ],
+  "c9963491668f14ebc3a62e3d8e0d43d744a1d341": [
+    "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md"
+  ],
+  "2630f2629bf19ce887b373fcbd3bc26fe879d061": [
+    "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
+  ],
+  "6891272afaabfedb7572dcf1c03bea19118bb8a9": [
+    "virtualization\\windowscontainers\\containers_welcome.md"
+  ],
+  "7244a1a0ddcebfe36147f05577bceb7671592b96": [
+    "virtualization\\windowscontainers\\media\\try.png"
+  ],
+  "215adae041390b1edb10b314dc7ce21f6b39592e": [
+    "virtualization\\windowscontainers\\media\\1.png"
+  ],
+  "7de8389ab2b14e0926c142bf61be560037fc2658": [
+    "virtualization\\windowscontainers\\media\\question.png"
+  ],
+  "367d56d6ba500771f4a03e2296eca6bb079d891e": [
+    "virtualization\\windowscontainers\\media\\explore.png"
+  ],
+  "b764ceadae3e4ccb30c57c8a30377356f3a0e5bd": [
+    "virtualization\\windowscontainers\\EULA.md"
+  ],
+  "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
+    "virtualization\\windowscontainers\\TOC.md"
+  ]
+}
