@@ -1,24 +1,48 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 3
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md) | PartialHandedBack | [Details](#db77e9f2ec6cc92c80b10e8894c373af403731bb196)
+ [virtualization\hyperv_on_windows\media\Chat_65.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/hyperv_on_windows/media/Chat_65.png) | HandedOff | [Details](#f8028372876eb8d38fb4571b18bdc30585c95087106)
+ [virtualization\hyperv_on_windows\media\Chat_65.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/hyperv_on_windows/media/Chat_65.png) | HandedOff | [Details](#f8028372876eb8d38fb4571b18bdc30585c95087217)
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/windowscontainers/containers_welcome.md) | PartialHandedBack | [Details](#dae37299a5f0b070b495f82863583a38f3ac8860213)
 
 ## Item Details
-##### <a name='db77e9f2ec6cc92c80b10e8894c373af403731bb196'></a> Source: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/8698a5d457c7689ef96f0ab8ca2891866bd4f5ea/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
+##### <a name='f8028372876eb8d38fb4571b18bdc30585c95087106'></a> Source: [virtualization\hyperv_on_windows\media\Chat_65.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/hyperv_on_windows/media/Chat_65.png)
+* Status: HandedOff
+* Target File: 
+* Handoff File: [f8028372876eb8d38fb4571b18bdc30585c95087.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4f1f7fa053a8f28f3de38deeefa20568b062fdb1/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/f8028372876eb8d38fb4571b18bdc30585c95087.png)
+* Handoff Datetime: 2015-11-16 18:27:33
+* Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: virtualization\hyperv_on_windows\windows_welcome_new.md, virtualization\windowscontainers\containers_welcome.md
+* [Back to Top](#report-top)
+
+##### <a name='f8028372876eb8d38fb4571b18bdc30585c95087217'></a> Source: [virtualization\hyperv_on_windows\media\Chat_65.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/hyperv_on_windows/media/Chat_65.png)
+* Status: HandedOff
+* Target File: 
+* Handoff File: [f8028372876eb8d38fb4571b18bdc30585c95087.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4f1f7fa053a8f28f3de38deeefa20568b062fdb1/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/f8028372876eb8d38fb4571b18bdc30585c95087.png)
+* Handoff Datetime: 2015-11-16 18:27:33
+* Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Dependency From: virtualization\hyperv_on_windows\windows_welcome_new.md, virtualization\windowscontainers\containers_welcome.md
+* [Back to Top](#report-top)
+
+##### <a name='dae37299a5f0b070b495f82863583a38f3ac8860213'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/b6b597901bca274d5d4d377f8dcb2c55f59f6b6d/virtualization/windowscontainers/containers_welcome.md)
 * Status: PartialHandedBack
 * Target File: 
-* Handoff File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/77ce4e42826d9a980e12511fa97bf7a9965b3233/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.it-it.xlf)
-* Handoff Datetime: 2015-11-13 20:38:09
+* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/4f1f7fa053a8f28f3de38deeefa20568b062fdb1/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.it-it.xlf)
+* Handoff Datetime: 2015-11-16 18:27:33
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\user_guide\user_guide_nav.md](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/hyperv_on_windows/user_guide/user_guide_nav.md)
-* Current Handback File: [user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dec7f25da42ffcda4c273c410549e823d0b004c9/ol-handback/OpenLocalizationOrg/hyperVTest.it-it/master/user_guide_nav.1b8c67c408c9adfec100af4c7ae69ce1dd917f2e.it-it.xlf)
+* Current Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/windowscontainers/containers_welcome.md)
+* Current Handback File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dec7f25da42ffcda4c273c410549e823d0b004c9/ol-handback/OpenLocalizationOrg/hyperVTest.it-it/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.it-it.xlf)
 * Current Handback Datetime: 2015-11-13 00:25:12
 * [Back to Top](#report-top)
 
