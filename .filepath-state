@@ -194,6 +194,9 @@
   "66caa4c366c1b65937a913bfb39e3af350c2d9f6": [
     "virtualization\\hyperv_on_windows\\quick_start\\media\\revert.png"
   ],
+  "d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a": [
+    "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
+  ],
   "a43c4b1981e5a2c5c56f361d02c02e2a1b0f6e51": [
     "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md"
   ],
@@ -211,6 +214,9 @@
   ],
   "756462edce4cd4cd60a244543d8013718b20fe99": [
     "virtualization\\hyperv_on_windows\\user_guide\\migrating_vms.md"
+  ],
+  "02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a": [
+    "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
   ],
   "d1498bd9bc60453542fdb1221b47fc1f7f2b8e94": [
     "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md"
