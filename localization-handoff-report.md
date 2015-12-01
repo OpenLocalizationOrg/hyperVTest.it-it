@@ -1,38 +1,24 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 1
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/checkpoints.md) | PartialHandedBack | [Details](#d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a184)
- [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/remote_host_management.md) | PartialHandedBack | [Details](#02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a193)
+ [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ca5b7fdd4f1259595fc0fe17cb69464c390af896/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md) | PartialHandedBack | [Details](#c7baf8edb6c8fd627783b8da351f77f2b9957d7b176)
 
 ## Item Details
-##### <a name='d3d7ac429dcb0a53b3a1e9d6b5f494fb16dd149a184'></a> Source: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
+##### <a name='c7baf8edb6c8fd627783b8da351f77f2b9957d7b176'></a> Source: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/ca5b7fdd4f1259595fc0fe17cb69464c390af896/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
 * Status: PartialHandedBack
 * Target File: 
-* Handoff File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6c82b03795c83825af1490b11263832a04edbf71/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.it-it.xlf)
-* Handoff Datetime: 2015-11-24 17:52:20
+* Handoff File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/864cce8c6f68f5228aca23e39f129d5f259d3aab/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.it-it.xlf)
+* Handoff Datetime: 2015-12-01 00:43:46
 * Handoff Reason: Include
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\user_guide\checkpoints.md](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/hyperv_on_windows/user_guide/checkpoints.md)
-* Current Handback File: [checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dec7f25da42ffcda4c273c410549e823d0b004c9/ol-handback/OpenLocalizationOrg/hyperVTest.it-it/master/checkpoints.fb864e32f956b43d9a6ce0ccc72ba67b60ea8362.it-it.xlf)
-* Current Handback Datetime: 2015-11-13 00:25:12
-* [Back to Top](#report-top)
-
-##### <a name='02c14920a4ae5365a71d7ca1e43b1f7d5dccb85a193'></a> Source: [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/68051fa0471cc3832b44697298712ecaaded094b/virtualization/hyperv_on_windows/user_guide/remote_host_management.md)
-* Status: PartialHandedBack
-* Target File: 
-* Handoff File: [remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/6c82b03795c83825af1490b11263832a04edbf71/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.it-it.xlf)
-* Handoff Datetime: 2015-11-24 17:52:20
-* Handoff Reason: Include
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [virtualization\hyperv_on_windows\user_guide\remote_host_management.md](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/hyperv_on_windows/user_guide/remote_host_management.md)
-* Current Handback File: [remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dec7f25da42ffcda4c273c410549e823d0b004c9/ol-handback/OpenLocalizationOrg/hyperVTest.it-it/master/remote_host_management.40d5636e508c5b95bb2917be75ca6b5aa426a915.it-it.xlf)
+* Current Target File: [virtualization\hyperv_on_windows\quick_start\walkthrough_compatibility.md](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/hyperv_on_windows/quick_start/walkthrough_compatibility.md)
+* Current Handback File: [walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dec7f25da42ffcda4c273c410549e823d0b004c9/ol-handback/OpenLocalizationOrg/hyperVTest.it-it/master/walkthrough_compatibility.b81630a3813897e1115f050cb3fb67a3db007cf8.it-it.xlf)
 * Current Handback Datetime: 2015-11-13 00:25:12
 * [Back to Top](#report-top)
 
