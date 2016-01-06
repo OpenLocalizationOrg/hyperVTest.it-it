@@ -1,12 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 60
+ Total Files | 59
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/community/TOC.md) | InSyncHandedBackSuccess | [Details](#293cd908ea75ec62b9ca3cdbfaafe4980abae1ea95)
  [virtualization\hyperv_on_windows\quick_start\media\after_delete.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/hyperv_on_windows/quick_start/media/after_delete.png) | InSyncHandedBackSuccess | [Details](#61d3a219c4976b61137f6b8c6739135a4d917265110)
  [virtualization\hyperv_on_windows\quick_start\media\apply_standard.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/hyperv_on_windows/quick_start/media/apply_standard.png) | InSyncHandedBackSuccess | [Details](#41fe6f9104dcc2946ef60efe9e0a66fd70ebbecc112)
  [virtualization\hyperv_on_windows\quick_start\media\basic.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/hyperv_on_windows/quick_start/media/basic.png) | InSyncHandedBackSuccess | [Details](#23eca458ec44c46dea8eca88aa041c9f9e1a8005113)
@@ -68,16 +67,6 @@
  [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/windowscontainers/TOC.md) | InSyncHandedBackSuccess | [Details](#c9a613b41195c01471a39d59e0fccdb2e226b08a264)
 
 ## Item Details
-##### <a name='293cd908ea75ec62b9ca3cdbfaafe4980abae1ea95'></a> Source: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/community/TOC.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/community/TOC.md)
-* Handoff File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/b5e1a8a86cd57e5db7e5997d11a06cf0ac717f52/ol-handoff/OpenLocalizationOrg/hyperVTest.it-it/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.it-it.xlf)
-* Handoff Datetime: 2015-11-13 00:17:53
-* Handoff Reason: Include
-* Handback File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.it-it.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/dec7f25da42ffcda4c273c410549e823d0b004c9/ol-handback/OpenLocalizationOrg/hyperVTest.it-it/master/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.it-it.xlf)
-* Handback Datetime: 2015-11-13 00:25:12
-* [Back to Top](#report-top)
-
 ##### <a name='61d3a219c4976b61137f6b8c6739135a4d917265110'></a> Source: [virtualization\hyperv_on_windows\quick_start\media\after_delete.png](https://github.com/OpenLocalizationOrg/hyperVTest/blob/28118b1c3e204ef6741732f0e4da3ffd2859f1f0/virtualization/hyperv_on_windows/quick_start/media/after_delete.png)
 * Status: InSyncHandedBackSuccess
 * Target File: [virtualization\hyperv_on_windows\quick_start\media\after_delete.png](https://github.com/OpenLocalizationOrg/hyperVTest.it-it/blob/e9ee91279b26b02f80a4ca6d71f1ee8ea02e8457/virtualization/hyperv_on_windows/quick_start/media/after_delete.png)
