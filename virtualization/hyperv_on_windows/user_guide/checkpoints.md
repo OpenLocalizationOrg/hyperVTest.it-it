@@ -1,21 +1,21 @@
 ms.ContentId: 8D89E9D8-2501-46A7-9304-2F19F37AFC85
 title: Working with checkpoints
 
-#Using checkpoints to revert virtual machines to a previous state
+# Using checkpoints to revert virtual machines to a previous state
 
-Test update for Demo. Adding this sentence for testing HO-HB process. Checkpoints provide a fast and easy way to revert the virtual machine to a previous state. This is especially helpful when you are about to make a change to a virtual machine and you want to be able to roll-back to the present state if that change cause issues.
+24-Nov update, part1. Test update for Demo. Adding this sentence for testing HO-HB process. Checkpoints provide a fast and easy way to revert the virtual machine to a previous state. This is especially helpful when you are about to make a change to a virtual machine and you want to be able to roll-back to the present state if that change cause issues.
 
 
-##Enable or disable checkpoints
+## Enable or disable checkpoints
 
 1.  In **Hyper-V Manager**, right-click the name of the virtual machine, and click **Settings**.
 2.  In the **Management** section, select **Checkpoints**.
 3.  To allow checkpoints to be taken off this virtual machine, make sure Enable Checkpoints is selected -- this is the default behavior.  
-   To disable checkpoints, deselect the **Enable Checkpoints** check box.
+To disable checkpoints, deselect the **Enable Checkpoints** check box.
 4.  Click **Apply** to apply your changes. If you are done, click **OK** to close the dialog box.
 
 
-##Choose standard or production checkpoints
+## Choose standard or production checkpoints
 
 There are two types of checkpoints:
 *  **Production checkpoints** -- Used mainly on servers in production environments as a form of backup.
@@ -45,19 +45,19 @@ The following table shows when to use production checkpoints or standard checkpo
 
 To see the difference between Standard and Production checkpoints, look at the [checkpoints walkthrough](../quick_start/walkthrough_checkpoints.md).
 
-##Set a default checkpoint type
+## Set a default checkpoint type
 
 1.  In **Hyper-V Manager**, right-click the name of the virtual machine, and click **Settings**.
 2.  In the **Management** section, select **Checkpoints**.
 3.  Select either production checkpoints or standard checkpoints. 
-   If you choose production checkpoints, you can also specify whether the host should take a standard checkpoint if a production checkpoint cannot be taken. If you clear this check box and a production checkpoint cannot be taken, no checkpoint will be selected.
+If you choose production checkpoints, you can also specify whether the host should take a standard checkpoint if a production checkpoint cannot be taken. If you clear this check box and a production checkpoint cannot be taken, no checkpoint will be selected.
 4.  If you want to change the location where the configuration files for the checkpoint are stored, change the path in the **Checkpoint File Location** section.
 5.  Click **Apply** to apply your changes. If you are done, click **OK** to close the dialog box.
 
 The default behavior in Windows 10 for new virtual machines is to create production checkpoints with fallback to standard checkpoints
 
 
-##Create a checkpoint
+## Create a checkpoint
 
 To create a checkpoint
 1.  In **Hyper-V Manager**, under **Virtual Machines**, select the virtual machine.
@@ -65,7 +65,7 @@ To create a checkpoint
 3.  When the process is complete, the checkpoint will appear under **Checkpoints** in the **Hyper-V Manager**.
 
 
-##Apply a checkpoint
+## Apply a checkpoint
 
 If you want to revert your virtual machine to a previous point-in-time, you can apply an existing checkpoint.
 
@@ -81,7 +81,7 @@ If you want to revert your virtual machine to a previous point-in-time, you can 
 **Cancel**: Closes the dialog box without doing anything.
 ```
 
-##Delete a checkpoint
+## Delete a checkpoint
 
 To cleanly delete a checkpoint:
 
@@ -95,16 +95,16 @@ To cleanly delete a checkpoint:
  Checkpoints are stored as .avhdx files in the same location as the .vhdx files for the virtual machine. You should not delete the .avhdx files directly.
 
 
-##Change where checkpoint settings and save state files are stored
+## Change where checkpoint settings and save state files are stored
 
 If the virtual machine has no checkpoints, you can change where the checkpoint configuration and saved state files are stored.
 
 1.  In **Hyper-V Manager**, right-click the name of the virtual machine, and click **Settings**.
-   
+
 2.  In the **Management** section, select **Checkpoints** or **Checkpoint File Location**.
-   
+
 4.  In **Checkpoint File Location**, enter the path to the folder where you would like to store the files.
-   
+
 5.  Click **Apply** to apply your changes. If you are done, click **OK** to close the dialog box.
 
 The default location for storing checkpoint configuration files is: %systemroot%\ProgramData\Microsoft\Windows\Hyper-V\Snapshots.
@@ -112,7 +112,7 @@ The default location for storing checkpoint configuration files is: %systemroot%
 
 
 
-##Rename a checkpoint
+## Rename a checkpoint
 
 1.  In **Hyper-V Manager**, select the virtual machine.
 2.  Right-click the checkpoint, and then select **Rename**.
@@ -132,3 +132,4 @@ Names are limited to 100 characters or less, and the name cannot be blank.
 
 
 
+<!--HONumber=Jan16_HO1-->

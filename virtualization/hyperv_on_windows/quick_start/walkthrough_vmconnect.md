@@ -1,21 +1,21 @@
 ms.ContentId: 178899C9-8EA6-4D82-A0B0-8BE4DDD78DAE
 title: Step 5: Connect to the virtual machine and finish the installation
 
-#Step 5: Connect to the virtual machine and finish the installation
+# Step 5: Connect to the virtual machine and finish the installation
 
-In order to finish building your virtual machine, you need to start the VM and walk through the operating system installation.
+12-Nov update. In order to finish building your virtual machine, you need to start the VM and walk through the operating system installation.
 
-##Connect to the VM
+## Connect to the VM
 
 1. In **Hyper-V Manager**, double-click on the virtual machine. This will launch the VMConnect tool.
 2. In VMConnect, click on the green **Start** button ![](media/start.png). This is like hitting the power button on a physical computer.
 3. The VM will boot into setup and you can walk through the installation like you would on a physical computer.
 
 > **Note:** Unless you're running a volume licensed version of Windows 10, you do need a seperate license for Windows running inside a virtual machine.  
->   The virtual machine's operating system is completely independent of the host operating system.
+>  The virtual machine's operating system is completely independent of the host operating system.
 
 
-##Other stuff you can do in VMConnect
+## Other stuff you can do in VMConnect
 
 Here are all of the buttons and shortcut keys, mapped to what they do.
 
@@ -42,10 +42,11 @@ Here are all of the buttons and shortcut keys, mapped to what they do.
 
 
 
-##Next Step:
+## Next Step:
 
 [Step 6: Experiment with checkpoints](walkthrough_checkpoints.md)
 
 
 
 
+<!--HONumber=Jan16_HO1-->

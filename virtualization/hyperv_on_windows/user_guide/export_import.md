@@ -4,12 +4,12 @@ title: Export and import virtual machines
 
 
 
-#Export and Import virtual machines
+# Export and Import virtual machines
 
-You can use the export and import functionality to quickly duplicate virtual machines or to move them from one host to another.
+12-Nov update. You can use the export and import functionality to quickly duplicate virtual machines or to move them from one host to another.
 You don't need to export a virtual machine to be able to import it. You can simply copy a virtual machine and its associated files to the new host, and then use the **Import Virtual Machine** wizard to specify the location of the files. This registers the virtual machine with Hyper-V and makes it available to be used.
 
-##Export virtual machines
+## Export virtual machines
 
 An easy way to prepare virtual machines to be imported is the **Export Virtual Machine** wizard.
 
@@ -19,16 +19,16 @@ An easy way to prepare virtual machines to be imported is the **Export Virtual M
 
 For information about using Windows PowerShell to export virtual machines, see [Export-VM](https://technet.microsoft.com/library/hh848491.aspx)
 
-##Import virtual machines
+## Import virtual machines
 
 1. In **Hyper-V Manager**, in the **Action** menu, click **Import Virtual Machine**.
 2. In the Locate Folder section, click Browse and navigate to where the virtual machine files are located. Please note that using the wizard you can import one VM at a time and have to select the VM's folder instead of the general export folder. Click **Next** when finished.
 3. Select the virtual machine to import and then click **Next**.
 4. In the Choose Import Type section, you can choose how to import the virtual machine:
-   -  **Register** - Uses the existing unique ID of the virtual machine and registers it in-place. Choose this option if the virtual machines files are already in the correct location.
-   - **Restore** - Uses the original virtual machine’s unique ID and also copies the virtual machine files to the default location specified for the host.
-   - **Copy** - Creates a new unique ID for the virtual machine and also copies the virtual machine files to the default location specified for the host.
-   
+  -  **Register** - Uses the existing unique ID of the virtual machine and registers it in-place. Choose this option if the virtual machines files are already in the correct location.
+  - **Restore** - Uses the original virtual machine’s unique ID and also copies the virtual machine files to the default location specified for the host.
+  - **Copy** - Creates a new unique ID for the virtual machine and also copies the virtual machine files to the default location specified for the host.
+
 5. After selecting how to import the VM, click **Next**.
 6. In the Choose Destination section, you can choose where to store the files for the virtual machine or leave them in their current location. When you are finished, click **Next**.
 7. In Choose Storage folders, you can select another place to store the .vhdx file or leave them where they are. When you are finished, click **Next**.
@@ -47,3 +47,4 @@ In addition to the wizard, the Hyper-V module for Windows PowerShell includes cm
 
 
 
+<!--HONumber=Jan16_HO1-->

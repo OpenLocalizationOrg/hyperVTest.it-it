@@ -1,7 +1,7 @@
 ms.ContentId: c9c3edaf-eca8-4afd-9510-09e78b46d560
 title: Containers Welcome
 
-#Windows Containers
+# Windows Containers
 
 Hey! This is a test update to see if this update will get include in the HO creation. Windows containers provide operating system level virtualization that allow you to run multiple isolated applications on one container host.
 
@@ -9,7 +9,7 @@ The following table list topics that provide more information about Windows cont
 
 <table border="1" style="background-color:FFFFCC;border-collapse:collapse;border:1px solid FFCC00;color:000000;width:100%" cellpadding="15" cellspacing="3">
         <tr valign="top">
-        <td><center>![](media/try.png)</center></td>
+        <td><center>![](media/Chat_65.png)</center></td>
         <td>        
               <p><strong>Get started with Windows Containers</strong></p>
               <p>The following resources will walk you through the deployment, creation, and simple management of Windows Containers.</p>
@@ -60,3 +60,4 @@ The following table list topics that provide more information about Windows cont
 
 
 
+<!--HONumber=Jan16_HO1-->
